@@ -27,19 +27,27 @@ This project explores the **Heart Disease Dataset (2020)** using Exploratory Dat
 - Scikit-Learn (ML models & evaluation)
 - SciPy (Statistical tests)
 
-## 🎨 Visualizations
-![Correlation Heatmap](https://upload.wikimedia.org/wikipedia/commons/1/1a/Correlation_heatmap.svg)
-
 ## 🛠️ How to Run
 1. Clone the repository:  
    ```bash
-   git clone [Heart-Disease-Exploratory-Data-Analysis-Prediction](https://github.com/624mihir/Heart-Disease-Exploratory-Data-Analysis-Prediction)
+   git clone https://github.com/624mihir/Heart-Disease-Exploratory-Data-Analysis-Prediction
    ```
-2. Install dependencies
+2. Install dependencies:
+ ```bash
+import pandas as pd
+import numpy as np
+import matplotlib as mpl
+import matplotlib.pyplot as plt
+%matplotlib inline
+import seaborn as sns
+!pip install missingno
+import missingno as msno
+from scipy import stats
+ ```
 3. Run the Jupyter Notebook or Google Colab.
 
 ## 🏆 Results & Findings
-- **[>90]% accuracy** on test data.
+- **>90% accuracy** on test data.
 - Top risk factors: Smoking, BMI, Age, Diabetes.
 - Lifestyle changes can significantly reduce heart disease risk.
 
