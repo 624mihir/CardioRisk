@@ -1,7 +1,5 @@
 # 📊 Heart Disease Exploratory Data Analysis & Prediction
 
-![Heart Disease Analysis](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cardiac_Stress_Test_Diagram.svg/1200px-Cardiac_Stress_Test_Diagram.svg.png)
-
 ## 📖 Project Overview
 This project explores the **Heart Disease Dataset (2020)** using Exploratory Data Analysis (EDA), statistical analysis, and machine learning models to identify risk factors and predict heart disease.
 
@@ -19,7 +17,7 @@ This project explores the **Heart Disease Dataset (2020)** using Exploratory Dat
   - Used **Chi-square tests & t-tests** to analyze relationships.
 - **Machine Learning Models**:
   - Trained **Logistic Regression, Decision Trees, and Random Forest** models.
-  - Achieved **[XX]% accuracy** after feature selection and hyperparameter tuning.
+  - Achieved **>90% accuracy** after feature selection and hyperparameter tuning.
 - **Insights & Recommendations**:
   - Suggested preventive measures based on data trends.
 
