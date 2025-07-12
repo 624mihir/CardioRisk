@@ -1,10 +1,9 @@
-# 📊 Heart Disease Exploratory Data Analysis & Prediction
-
+# 📊 CardioRisk: A Data-Driven Analysis and Prediction Model for Heart Disease
 ## 📖 Project Overview
 This project explores the **Heart Disease Dataset (2020)** using Exploratory Data Analysis (EDA), statistical analysis, and machine learning models to identify risk factors and predict heart disease.
 
 ## 🌐 Dataset Information
-- **Source:** [CDC Behavioral Risk Factor Surveillance System (BRFSS) 2020](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
+- **Source:** [CDC Behavioral Risk Factor Surveillance System (BRFSS) 2020]
 - **Size:** 300,000+ records, 18 features
 - **Attributes:** Lifestyle habits, demographics, and medical conditions
 
@@ -30,7 +29,7 @@ This project explores the **Heart Disease Dataset (2020)** using Exploratory Dat
 ## 🛠️ How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/624mihir/Heart-Disease-Exploratory-Data-Analysis-Prediction
+   git clone https://github.com/624mihir/CardioRisk
    ```
 2. Install dependencies:
  ```bash
