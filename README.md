@@ -79,11 +79,11 @@ CardioRisk is a comprehensive end-to-end data science project that analyzes the 
 ```bash
 git clone https://github.com/624mihir/CardioRisk.git
 cd CardioRisk
-
+```
 2. Install required libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-learn
-
+```
 3. Run the notebook:
 - Open cardioRisk.ipynb in Jupyter or Google Colab.
 - Run all cells sequentially
